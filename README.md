@@ -15,6 +15,7 @@ I am a mathematics major with a passion for AI and data science competitions acr
 - **Deep Learning:** PyTorch
 
 ## 🏆 Competitions & Achievements
+- **TOEIC** - 990
 
 - **2025 SSAFY AI Challenge(Kaggle, pothole detection)** — 8th place
 
