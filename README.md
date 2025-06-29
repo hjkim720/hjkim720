@@ -18,7 +18,7 @@ I am a mathematics major with a passion for AI and data science competitions acr
 
 - **2025 SSAFY AI Challenge(Kaggle, pothole detection)** — 8th place
 
-- **Hecto AI Challenge (Dacon, 2025 H1 Recruitment AI Competition)** — Top 13%
+- **Hecto AI Challenge (Dacon, 2025 Hecto Recruitment AI Competition)** — Top 13%
 
 - **KMA 2025 Weather Data Contest** — 4th place by best RMSE
 
