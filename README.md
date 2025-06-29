@@ -17,16 +17,19 @@ I am a mathematics major with a passion for AI and data science competitions acr
 ## 🏆 Competitions & Achievements
 
 - **2025 SSAFY AI Challenge(Kaggle, pothole detection)** — 8th place
-  - YOLO
+  *Participated as team leader*
+  *Developed an object detection model to identify potholes using real-world road images.*
 
 - **Hecto AI Challenge (Dacon, 2025 Hecto Recruitment AI Competition)** — Top 13%
-  - swin transformer, ConvNeXt
+    *Participated as team leader*
+    *Classified used car types through image-based computer vision modeling in a recruitment-linked competition.*
 
 - **KMA 2025 Weather Data Contest** — 4th place by best RMSE
-  - Catboost
-
+  *Predicted subway congestion levels using time-series weather variables and observational data.*
+  
 - **2025 SUMMER SSAFY RACE Basic Map** — 3rd place (rank freezing)
-  - Python
+  *Participated as team leader*
+  *Designed obstacle-avoidance and high-speed driving logic in a virtual autonomous driving environment.*
 
 - **Baekjoon Online Judge** — Gold 1 (should achieve platinum in the near future)
 
