@@ -27,7 +27,7 @@ I am a mathematics major with a passion for AI and data science competitions acr
 - **KMA 2025 Weather Data Contest** — 4th place by best RMSE
   - *Predicted subway congestion levels using time-series weather variables and observational data.*
   
-- **2025 SUMMER SSAFY RACE Basic Map** — 3rd place (rank freezing)
+- **2025 SUMMER SSAFY RACE Basic Map** — 2nd place
   - *Participated as team leader*
   - *Designed obstacle-avoidance and high-speed driving logic in a virtual autonomous driving environment.*
 
