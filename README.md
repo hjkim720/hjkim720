@@ -31,7 +31,7 @@ I am a mathematics major with a passion for AI and data science competitions acr
   - *Participated as team leader*
   - *Designed obstacle-avoidance and high-speed driving logic in a virtual autonomous driving environment.*
 
-- **Baekjoon Online Judge** — Gold 1 (should achieve platinum in the near future)
+- **Baekjoon Online Judge (Algorithm)**— Gold 1 (should achieve platinum in the near future)
 
 - **TOEIC** - 990
 
