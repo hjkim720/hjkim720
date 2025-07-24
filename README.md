@@ -34,14 +34,14 @@ I am a mathematics major with a passion for AI and data science competitions acr
   - *Participated as team leader*
   - *Designed obstacle-avoidance and high-speed driving logic in a virtual autonomous driving environment.*
 
-- **[13th MOTIE Public Data Utilization Idea Contest]** — Passed 1st screening, 2nd round on Aug 5
+- **13th MOTIE Public Data Utilization Idea Contest** — Passed 1st screening, 2nd round on Aug 5
   - https://datacontest.kr/
   - *Participated as team leader*
   - *Advanced through the first stage of screening; final presentation/interview scheduled for Aug 5.*
   - *Project: Correction of weather forecast errors caused by the distance between prediction and observation points*
   - *Goal: Improve day-ahead (24-hour) weather prediction accuracy for industrial sites (e.g., solar power, gas turbines), enabling better operational safety and combustion stability based on atmospheric conditions*
 
-- **[Kaggle Competition: CMI-Detect Behavior with Sensor Data]** — In progress (as of July 2025)
+- **Kaggle Competition: CMI-Detect Behavior with Sensor Data** — In progress (as of July 2025)
   - https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data
   - *Currently participating*
   - *Developing deep learning models for sensor-based behavior classification.*
