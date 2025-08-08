@@ -25,10 +25,9 @@ I am a mathematics major with a passion for AI and data science competitions acr
   - *Participated as team leader*
   - *Classified used car types through image-based computer vision modeling in a recruitment-linked competition.*
 
-- **KMA 2025 Weather Data Contest** — Finalist, award tier TBD (announcement Aug 6)
+- **KMA 2025 Weather Data Contest** — Finalist, Honerable Mention
   - https://bd.kma.go.kr/contest/main.do
-  - *Advanced to the final round, prize already secured; exact placement will be revealed on Aug 6.*
-  - *Predicted subway congestion levels using time‑series weather variables and observational data.*
+  - *Advanced to the final round and was awarded an Honorable Mention for predicting subway congestion levels using time-series weather and observational data.*
 
 - **2025 SUMMER SSAFY RACE Basic Map** — 2nd place
   - *Participated as team leader*
