@@ -45,7 +45,8 @@ I am a mathematics major with a passion for AI and data science competitions acr
   - *Currently participating*
   - *Developing deep learning models for sensor-based behavior classification.*
   
-- **Baekjoon Online Judge ([Algorithm](https://github.com/hjkim720/algorithm))**— http://mazassumnida.wtf/api/generate_badge?boj={jkim720})](https://solved.ac/{jkim720}
+- **Baekjoon Online Judge ([Algorithm](https://github.com/hjkim720/algorithm))**— [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})(https://solved.ac/{jkim720}
 
 - **TOEIC** - 990
 
