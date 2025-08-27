@@ -33,11 +33,12 @@ I am a mathematics major with a passion for AI and data science competitions acr
   - *Participated as team leader*
   - *Designed obstacle-avoidance and high-speed driving logic in a virtual autonomous driving environment.*
 
-- **13th MOTIE Public Data Utilization Idea Contest** — Award Winner(Prize TBD on Sep 11)
+- **13th MOTIE Public Data Utilization Idea Contest** — Grand Prize (Minister of Trade, Industry and Energy Award)
   - https://datacontest.kr/
   - *Participated as team leader*
   - *Project: Correction of weather forecast errors caused by the distance between prediction and observation points*
   - *Goal: Improve day-ahead (24-hour) weather prediction accuracy for industrial sites (e.g., solar power, gas turbines), enabling better operational safety and combustion stability based on atmospheric conditions*
+  - *Achievement: Awarded Grand Prize (산업통상자원부 장관상) for excellence in data utilization and industrial impact*
 
 - **Baekjoon Online Judge ([Algorithm](https://github.com/hjkim720/algorithm))**— [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jkim720)](https://solved.ac/jkim720)
