@@ -40,6 +40,10 @@ I am a mathematics major with a passion for AI and data science competitions acr
   - *Goal: Improve day-ahead (24-hour) weather prediction accuracy for industrial sites (e.g., solar power, gas turbines), enabling better operational safety and combustion stability based on atmospheric conditions*
   - *Achievement: Awarded Grand Prize (산업통상자원부 장관상) for excellence in data utilization and industrial impact*
 
+- **2025 Shinhan Hackathon with SSAFY**
+  - *Project: Advanced through proposal screening to the on-site final round; built a 6-month quest-based savings product where users earn EXP by completing Life/Growth/Surprise quests, level up for preferential interest rates, and contribute bonus interest to school-level donation pools.*
+  - *My Role: Developed and maintained the recommendation system end-to-end, delivering a hybrid CF+CBF with cold-start fallback (FastAPI + SQLAlchemy, interaction logging), while also contributing to the app’s front-end by handling design-oriented tasks in React Native (screens, components, styling).*
+
 - **Baekjoon Online Judge ([Algorithm](https://github.com/hjkim720/algorithm))**— [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jkim720)](https://solved.ac/jkim720)
 
