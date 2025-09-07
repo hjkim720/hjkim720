@@ -47,7 +47,10 @@ I am a mathematics major with a passion for AI and data science competitions acr
 - **Baekjoon Online Judge ([Algorithm](https://github.com/hjkim720/algorithm))**— [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jkim720)](https://solved.ac/jkim720)
 
-- **TOEIC** - 990
+- **OPIC** - AL
+
+- **TOEIC** - 990 (expired 2025.02)
+
 
 ## 🔥 Passions & Interests
 
