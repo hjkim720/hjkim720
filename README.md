@@ -44,9 +44,10 @@ I am a mathematics major with a passion for AI and data science competitions acr
   - *Project: Advanced through proposal screening to the on-site final round; built a 6-month quest-based savings product where users earn EXP by completing Life/Growth/Surprise quests, level up for preferential interest rates, and contribute bonus interest to school-level donation pools.*
   - *My Role: Developed and maintained the recommendation system end-to-end, delivering a hybrid CF+CBF with cold-start fallback (FastAPI + SQLAlchemy, interaction logging), while also contributing to the app’s front-end by handling design-oriented tasks in React Native (screens, components, styling).*
 
--**2023 JBNU Science Research Fair** - Outstading Presentation Award
+- **2023 JBNU Science Research Fair** - Outstading Presentation Award
   - Study on the endomorphism of the 4-torsion group of elliptic curves
   - Achievement: Awarded Outstanding Presentation Award (우수발표상) for excellence in mathematical research and academic contribution
+    
 
 - **Baekjoon Online Judge ([Algorithm](https://github.com/hjkim720/algorithm))**— [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jkim720)](https://solved.ac/jkim720)
