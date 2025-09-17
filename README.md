@@ -1,73 +1,107 @@
-# Hi, I'm  Hyojoon Kim 👋
+# Hi, I'm Hyojoon Kim 👋
 
-I am a mathematics major with a passion for AI and data science competitions across any domain.
+🎓 Mathematics Major · 💻 AI & Data Science Enthusiast · 🏆 Competition-driven Learner
+
+---
 
 ## 🎓 Education & Bootcamp
-
 - **B.S. Intensive Major in Mathematics**
+- **SSAFY 13th**, Samsung Software/AI Academy for Youth
 
-- **SSAFY 13th**, Samsung Software/AI Academy for Youth (SSAFY)
+---
 
 ## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
 
-- **Languages & Frameworks:** Python · Vue.js · Django · R · MATLAB
-
-- **Deep Learning:** PyTorch
+---
 
 ## 🏆 Competitions & Achievements
-- **2025 SSAFY AI Challenge (Kaggle, pothole detection)** — 8th place (top 3%)
-  - https://www.kaggle.com/c/pothole-detection-challenge   
-  - *Participated as team leader*
-  - *Developed an object detection model to identify potholes using real-world road images.*
 
-- **Hecto AI Challenge (Dacon, 2025 Hecto Recruitment AI Competition)** — Top 13%
-  - https://dacon.io/competitions/official/236493/overview/description
-  - *Participated as team leader*
-  - *Classified used car types through image-based computer vision modeling in a recruitment-linked competition.*
+<details>
+<summary>🚧 2025 SSAFY AI Challenge (Kaggle) — 8th place (Top 3%)</summary>
 
-- **KMA 2025 Weather Data Contest** — Finalist, Honerable Mention
-  - https://bd.kma.go.kr/contest/main.do
-  - *Advanced to the final round and was awarded an Honorable Mention for predicting subway congestion levels using time-series weather and observational data.*
+- [Competition Link](https://www.kaggle.com/c/pothole-detection-challenge)  
+- Role: **Team Leader**  
+- Built an object detection model for pothole detection using real-world road images
+</details>
 
-- **2025 SUMMER SSAFY RACE Basic Map** — 2nd place
-  - *Participated as team leader*
-  - *Designed obstacle-avoidance and high-speed driving logic in a virtual autonomous driving environment.*
+<details>
+<summary>🚗 Hecto AI Challenge (Dacon, 2025) — Top 13%</summary>
 
-- **13th MOTIE Public Data Utilization Idea Contest** — Grand Prize (Minister of Trade, Industry and Energy Award)
-  - https://datacontest.kr/
-  - *Participated as team leader*
-  - *Project: Correction of weather forecast errors caused by the distance between prediction and observation points*
-  - *Goal: Improve day-ahead (24-hour) weather prediction accuracy for industrial sites (e.g., solar power, gas turbines), enabling better operational safety and combustion stability based on atmospheric conditions*
-  - *Achievement: Awarded Grand Prize (산업통상자원부 장관상) for excellence in data utilization and industrial impact*
+- [Competition Link](https://dacon.io/competitions/official/236493/overview/description)  
+- Classified used car types through image-based CV modeling  
+- Led a team in a recruitment-linked competition
+</details>
 
-- **2025 Shinhan Hackathon with SSAFY**
-  - *Project: Advanced through proposal screening to the on-site final round; built a 6-month quest-based savings product where users earn EXP by completing Life/Growth/Surprise quests, level up for preferential interest rates, and contribute bonus interest to school-level donation pools.*
-  - *My Role: Developed and maintained the recommendation system end-to-end, delivering a hybrid CF+CBF with cold-start fallback (FastAPI + SQLAlchemy, interaction logging), while also contributing to the app’s front-end by handling design-oriented tasks in React Native (screens, components, styling).*
+<details>
+<summary>🌦 KMA 2025 Weather Data Contest — Finalist, Honorable Mention</summary>
 
-- **2023 JBNU Science Research Fair** - Outstanding Presentation Award
-  - Study on the endomorphism of the 4-torsion group of elliptic curves
-  - Achievement: Awarded Outstanding Presentation Award (우수발표상) for excellence in mathematical research and academic contribution
-    
+- [Competition Link](https://bd.kma.go.kr/contest/main.do)  
+- Predicted subway congestion levels using time-series weather & observation data  
+- Advanced to finals, awarded Honorable Mention
+</details>
 
-- **Baekjoon Online Judge ([Algorithm](https://github.com/hjkim720/algorithm))**— [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jkim720)](https://solved.ac/jkim720)
+<details>
+<summary>🏎 2025 SUMMER SSAFY RACE Basic Map — 2nd place</summary>
 
-- **OPIC** - AL
+- Designed obstacle-avoidance & high-speed driving logic in a virtual autonomous driving environment
+</details>
 
+<details>
+<summary>📊 13th MOTIE Public Data Utilization Contest — Grand Prize (Minister Award)</summary>
+
+- [Competition Link](https://datacontest.kr/)  
+- Project: Correction of weather forecast errors caused by distance between prediction & observation points  
+- Goal: Improve 24h weather prediction accuracy for industrial sites (e.g., solar, gas turbines)  
+- **Awarded Grand Prize (산업통상자원부 장관상)**
+</details>
+
+<details>
+<summary>💡 2025 Shinhan Hackathon with SSAFY — Final Round</summary>
+
+- Project: Quest-based savings app with EXP system and donation pools  
+- Role: Built end-to-end recommendation system (FastAPI + SQLAlchemy, hybrid CF+CBF, cold-start fallback)  
+- Also contributed to **React Native** front-end (design, screens, components)
+</details>
+
+<details>
+<summary>📐 2023 JBNU Science Research Fair — Outstanding Presentation Award</summary>
+
+- Research: Endomorphism of the 4-torsion group of elliptic curves  
+- **Awarded Outstanding Presentation Award (우수발표상)**
+</details>
+
+---
+
+## 📈 Algorithm Practice
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jkim720)](https://solved.ac/jkim720)  
+🔗 [Algorithm Repository](https://github.com/hjkim720/algorithm)
+
+---
+
+## 🌍 Languages
+- **OPIC** - AL  
 - **TOEIC** - 990 (expired 2025.02)
 
+---
 
 ## 🔥 Passions & Interests
+- Competing in AI and data science challenges 🚀  
+- Applying mathematical thinking to model optimization  
+- Continuous learning & collaborative growth  
 
-- Competing in AI and data science challenges, regardless of domain
-
-- Applying mathematical thinking to problem solving and model optimization
-
-- Continuous learning and collaborative growth through teamwork
+---
 
 ## 📫 Contact
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:joonbutjuly@gmail.com)
 
-- Email: joonbutjuly@gmail.com
+---
 
-Looking for enthusiastic teammates to create outstanding projects together! 🚀
-
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hjkim720&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjkim720&layout=compact&theme=radical)
