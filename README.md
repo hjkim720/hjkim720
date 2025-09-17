@@ -22,7 +22,7 @@
 
 ## 🏆 Competitions & Achievements
 <details>
-<summary>📊 13th MOTIE Public Data Utilization Contest — **Grand Prize (Minister Award)**</summary>
+<summary>📊 13th MOTIE Public Data Utilization Contest — Grand Prize (Minister Award)</summary>
 
 - [Competition Link](https://datacontest.kr/)  
 - Project: Correction of weather forecast errors caused by distance between prediction & observation points  
@@ -31,7 +31,7 @@
 </details>
 
 <details>
-<summary>🌦 KMA 2025 Weather Data Contest — **Finalist, Honorable Mention**</summary>
+<summary>🌦 KMA 2025 Weather Data Contest — Finalist, Honorable Mention</summary>
 
 - [Competition Link](https://bd.kma.go.kr/contest/main.do)  
 - Predicted subway congestion levels using time-series weather & observation data  
