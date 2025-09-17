@@ -98,14 +98,19 @@
 ---
 
 ## 🌍 Languages
-- **English** — Fluent  
-  -TOEIC 990 (2023.02)
-  -OPIC AL (2025.09)  
-  *+ 1.5 year study abroad & living experience in San Diego, USA*  
+- 🇺🇸 **English** — Fluent  
+  <details>
+  <summary>More info</summary>
+  
+  - TOEIC 990 (2023.02)
+  - OPIC AL  (2025.09)
+  - 1.5 year study abroad & living experience in *San Diego, USA*
+  
+  </details>
 
-- **Korean** — Native  
+- 🇰🇷 **Korean** — Native  
 
-- **Spanish** — Beginner (*estoy aprendiendo*)
+- 🇪🇸 **Spanish** — Beginner (*aprendiendo*)
 
 
 ---
