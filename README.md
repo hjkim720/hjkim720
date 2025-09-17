@@ -98,8 +98,10 @@
 ---
 
 ## 🌍 Languages
-- **OPIC** - AL  
-- **TOEIC** - 990 (expired 2025.02)
+- **English** — Fluent (TOEIC 990, expired 2025.02 / OPIC AL)  
+  *+ 1.5 year study abroad & living experience in San Diego, CA*  
+- **Korean** — Native  
+- **Spanish** — Beginner (currently learning 🇪🇸)
 
 ---
 
