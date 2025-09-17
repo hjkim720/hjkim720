@@ -92,7 +92,7 @@
 ---
 
 ## 📈 Algorithm Practice
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jkim720)](https://solved.ac/jkim720)  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jkim720)](https://solved.ac/jkim720)  
 🔗 [Algorithm Repository](https://github.com/hjkim720/algorithm)
 
 ---
