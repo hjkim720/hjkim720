@@ -99,9 +99,9 @@
 
 ## 🌍 Languages
 - **English** — Fluent  
-  - TOEIC 990 (Acquired 2023.02)  
-  - OPIC AL (Acquired 2025.09)  
-  - 1.5 year study abroad & living experience in San Diego, USA  
+  - **TOEIC 990** (Acquired 2023.02)  
+  - **OPIC AL** (Acquired 2025.09)  
+  - 1.5 year study abroad & living experience in **San Diego, CA**
 
 - **Korean** — Native  
 
