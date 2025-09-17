@@ -21,6 +21,22 @@
 ---
 
 ## 🏆 Competitions & Achievements
+<details>
+<summary>📊 13th MOTIE Public Data Utilization Contest — **Grand Prize (Minister Award)**</summary>
+
+- [Competition Link](https://datacontest.kr/)  
+- Project: Correction of weather forecast errors caused by distance between prediction & observation points  
+- Goal: Improve 24h weather prediction accuracy for industrial sites (e.g., solar, gas turbines)  
+- **Awarded Grand Prize (산업통상자원부 장관상)**
+</details>
+
+<details>
+<summary>🌦 KMA 2025 Weather Data Contest — **Finalist, Honorable Mention**</summary>
+
+- [Competition Link](https://bd.kma.go.kr/contest/main.do)  
+- Predicted subway congestion levels using time-series weather & observation data  
+- Advanced to finals, awarded Honorable Mention
+</details>
 
 <details>
 <summary>🚧 2025 SSAFY AI Challenge (Kaggle) — 8th place (Top 3%)</summary>
@@ -39,26 +55,9 @@
 </details>
 
 <details>
-<summary>🌦 KMA 2025 Weather Data Contest — Finalist, Honorable Mention</summary>
-
-- [Competition Link](https://bd.kma.go.kr/contest/main.do)  
-- Predicted subway congestion levels using time-series weather & observation data  
-- Advanced to finals, awarded Honorable Mention
-</details>
-
-<details>
 <summary>🏎 2025 SUMMER SSAFY RACE Basic Map — 2nd place</summary>
 
 - Designed obstacle-avoidance & high-speed driving logic in a virtual autonomous driving environment
-</details>
-
-<details>
-<summary>📊 13th MOTIE Public Data Utilization Contest — Grand Prize (Minister Award)</summary>
-
-- [Competition Link](https://datacontest.kr/)  
-- Project: Correction of weather forecast errors caused by distance between prediction & observation points  
-- Goal: Improve 24h weather prediction accuracy for industrial sites (e.g., solar, gas turbines)  
-- **Awarded Grand Prize (산업통상자원부 장관상)**
 </details>
 
 <details>
