@@ -86,8 +86,10 @@
 <summary>📐 2023 JBNU Science Research Fair — <b>Outstanding Presentation Award</b></summary>
 
 - **Study:** Endomorphism of the 4-torsion group of elliptic curves  
-- **Achievement:** **Outstanding Presentation Award (우수발표상)**  
+- **Context:** Participated as an undergraduate in a graduate-level academic conference  
+- **Achievement:** **Outstanding Presentation Award (우수발표상)**
 </details>
+
 
 ---
 
