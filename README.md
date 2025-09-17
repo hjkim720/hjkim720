@@ -98,13 +98,14 @@
 ---
 
 ## 🌍 Languages
-![English](https://img.shields.io/badge/English-Fluent-blue?logo=google-translate)
-*(TOEIC 990, expired 2025.02 / OPIC AL)*  
-*+ 1.5 year study abroad & living experience in San Diego, CA*  
+- 🇺🇸 **English** — Fluent  
+  (TOEIC 990, expired 2025.02 / OPIC AL)  
+  *+ 1.5 year study abroad & living experience in San Diego, USA*  
 
-![Korean](https://img.shields.io/badge/Korean-Native-red?logo=google-translate)  
+- 🇰🇷 **Korean** — Native  
 
-![Spanish](https://img.shields.io/badge/Spanish-Beginner-green?logo=google-translate) *estoy aprendiendo*
+- 🇪🇸 **Spanish** — Beginner (*estoy aprendiendo*)
+
 
 ---
 
