@@ -21,59 +21,73 @@
 ---
 
 ## 🏆 Competitions & Achievements
+
 <details>
-<summary>📊 13th MOTIE Public Data Utilization Contest — Grand Prize (Minister Award)</summary>
+<summary>📊 13th MOTIE Public Data Utilization Idea Contest — <b>Grand Prize (Minister of Trade, Industry and Energy Award)</b></summary>
 
 - [Competition Link](https://datacontest.kr/)  
-- Project: Correction of weather forecast errors caused by distance between prediction & observation points  
-- Goal: Improve 24h weather prediction accuracy for industrial sites (e.g., solar, gas turbines)  
-- **Awarded Grand Prize (산업통상자원부 장관상)**
+- **Role:** Team Leader  
+- **Project:** Correction of weather forecast errors caused by the distance between prediction and observation points  
+- **Goal:** Improve day-ahead (24-hour) weather prediction accuracy for industrial sites (solar power, gas turbines), enabling better operational safety and combustion stability  
+- **Model:** Ensemble of **XGBoost** (capturing structured patterns via GBDT) + **MLP** (capturing nonlinear & latent patterns)  
+- **Achievement:** **Grand Prize (산업통상자원부 장관상)** for excellence in data utilization and industrial impact  
 </details>
 
 <details>
-<summary>🌦 KMA 2025 Weather Data Contest — Finalist, Honorable Mention</summary>
+<summary>🌦 KMA 2025 Weather Data Contest — <b>Finalist, Honorable Mention</b></summary>
 
 - [Competition Link](https://bd.kma.go.kr/contest/main.do)  
-- Predicted subway congestion levels using time-series weather & observation data  
-- Advanced to finals, awarded Honorable Mention
+- **Project:** Predicted subway congestion levels using time-series weather and observational data  
+- **Reasoning:** Dataset had numerous categorical variables, outliers, and missing values → CatBoost was more effective than specialized time-series models in this case  
+- **Model:** **CatBoost** for robust handling of categorical features and irregular data quality  
+- **Achievement:** **Finalist & Honorable Mention**  
 </details>
 
 <details>
-<summary>🚧 2025 SSAFY AI Challenge (Kaggle) — 8th place (Top 3%)</summary>
+<summary>🚧 2025 SSAFY AI Challenge (Kaggle, pothole detection) — <b>8th place (Top 3%)</b></summary>
 
 - [Competition Link](https://www.kaggle.com/c/pothole-detection-challenge)  
-- Role: **Team Leader**  
-- Built an object detection model for pothole detection using real-world road images
+- **Role:** Team Leader  
+- **Project:** Developed an object detection model to identify potholes using real-world road images  
+- **Model:** **YOLOv8**  
+- **Achievement:** **8th place (Top 3%)**  
 </details>
 
 <details>
-<summary>🚗 Hecto AI Challenge (Dacon, 2025) — Top 13%</summary>
+<summary>🚗 Hecto AI Challenge (Dacon, 2025 Hecto Recruitment AI Competition) — <b>Top 13%</b></summary>
 
 - [Competition Link](https://dacon.io/competitions/official/236493/overview/description)  
-- Classified used car types through image-based CV modeling  
-- Led a team in a recruitment-linked competition
+- **Role:** Team Leader  
+- **Project:** Classified used car types through image-based computer vision modeling  
+- **Model:** Ensemble of **Swin Transformer** and **ConvNeXt**  
+- **Achievement:** **Top 13%**  
 </details>
 
 <details>
-<summary>🏎 2025 SUMMER SSAFY RACE Basic Map — 2nd place</summary>
+<summary>🏎 2025 SUMMER SSAFY RACE Basic Map — <b>2nd place</b></summary>
 
-- Designed obstacle-avoidance & high-speed driving logic in a virtual autonomous driving environment
+- **Role:** Team Leader  
+- **Project:** Designed obstacle-avoidance and high-speed driving logic in a virtual autonomous driving environment  
+- **Achievement:** **2nd place**  
 </details>
 
 <details>
-<summary>💡 2025 Shinhan Hackathon with SSAFY — Final Round</summary>
+<summary>💡 2025 Shinhan Hackathon with SSAFY — <b>Final Round</b></summary>
 
-- Project: Quest-based savings app with EXP system and donation pools  
-- Role: Built end-to-end recommendation system (FastAPI + SQLAlchemy, hybrid CF+CBF, cold-start fallback)  
-- Also contributed to **React Native** front-end (design, screens, components)
+- **Project:** Built a 6-month quest-based savings product where users earn EXP by completing Life/Growth/Surprise quests, level up for preferential interest rates, and contribute bonus interest to school-level donation pools  
+- **My Role:**  
+  - Developed and maintained the recommendation system end-to-end (hybrid CF+CBF with cold-start fallback, FastAPI + SQLAlchemy, interaction logging)  
+  - Contributed to the app’s front-end by handling design-oriented tasks in React Native (screens, components, styling)  
+- **Achievement:** **Final Round (On-site)**  
 </details>
 
 <details>
-<summary>📐 2023 JBNU Science Research Fair — Outstanding Presentation Award</summary>
+<summary>📐 2023 JBNU Science Research Fair — <b>Outstanding Presentation Award</b></summary>
 
-- Research: Endomorphism of the 4-torsion group of elliptic curves  
-- **Awarded Outstanding Presentation Award (우수발표상)**
+- **Study:** Endomorphism of the 4-torsion group of elliptic curves  
+- **Achievement:** **Outstanding Presentation Award (우수발표상)**  
 </details>
+
 
 ---
 
