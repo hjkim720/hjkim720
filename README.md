@@ -98,10 +98,14 @@
 ---
 
 ## 🌍 Languages
-- **English** — Fluent (TOEIC 990 (2023.02) / OPIC AL (2025.09))  
-  *+ 1.5 year study abroad & living experience in San Diego, CA*  
-- **Korean** — Native  
-- **Spanish** — Beginner (currently learning)
+![English](https://img.shields.io/badge/English-Fluent-blue?logo=google-translate)
+*(TOEIC 990, expired 2025.02 / OPIC AL)*  
+*+ 1.5 year study abroad & living experience in San Diego, CA*  
+
+![Korean](https://img.shields.io/badge/Korean-Native-red?logo=google-translate)  
+
+![Spanish](https://img.shields.io/badge/Spanish-Beginner-green?logo=google-translate) *estoy aprendiendo*
+
 ---
 
 ## 🔥 Passions & Interests
