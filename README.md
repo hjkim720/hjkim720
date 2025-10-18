@@ -39,7 +39,7 @@
 
 - **Project:** FinCoach - AI-powered financial coaching service (Credit card delinquency prediction & spending pattern improvement recommendation service based on user MyData)
 - **Role:** DA & DE
-- **Duration:** 2025.01 ~ 2025.02 (7 weeks) | Team of 6 (FE 2, BE 2, Data 2)
+- **Duration:** 2025.08 ~ 2025.10| Team of 6 (FE 2, BE 2, Data 2)
 
 **Key Achievements:**
 - **Realistic MyData generation pipeline (DE):** Combined AI HUB financial synthetic data + Statistics Korea household survey data, reflecting age-specific spending patterns with individual preference-based diversity using the principle "individuals behave uniquely, groups follow statistics"
