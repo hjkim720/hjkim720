@@ -75,7 +75,7 @@
 <details>
 <summary>🖱️ Toss NEXT ML CHALLENGE (Dacon, CTR Prediction) — <b>Top 7.7%</b></summary>
 
-- [Competition Link](https://dacon.io/competitions/official/236286/overview/description)
+- [Competition Link](https://dacon.io/competitions/official/236575/overview/description)
 - **Role:** Team Leader
 - **Project:** Advertisement Click-Through Rate (CTR) Prediction Model
 - **Goal:** Predict user ad click probability using user demographics, ad attributes, domain features, and behavioral sequences
