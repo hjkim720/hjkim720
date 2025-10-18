@@ -49,7 +49,7 @@
 
 **Tech Stack:** Python, scikit-learn, pandas, NumPy, FastAPI, pydantic, MySQL
 
-**Award:** **Excellence Award (우수상)** from Samsung Electronics for comprehensive end-to-end data pipeline development from synthetic data generation to model deployment
+**Acheivement:** **Excellence Award (우수상)** from Samsung Electronics
 </details>
 
 <details>
