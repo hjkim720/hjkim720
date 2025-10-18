@@ -73,7 +73,7 @@
 </details>
 
 <details>
-<summary>🏆 Dacon Toss NEXT ML CHALLENGE (CTR Prediction) — <b>Top 7.7%</b></summary>
+<summary>🖱️ Toss NEXT ML CHALLENGE (Dacon, CTR Prediction) — <b>Top 7.7%</b></summary>
 
 - [Competition Link](https://dacon.io/competitions/official/236286/overview/description)
 - **Role:** Team Leader
@@ -87,7 +87,7 @@
   - Deep feature interaction modeling with xDeepFM's Compressed Interaction Network (CIN)
   - Attention-based pooling for sequence aggregation
   - Hybrid ensemble combining tree-based and deep learning approaches
-- **Achievement:** **Top 7.7%** ranking in public leaderboard through effective fusion of tabular and sequential modeling
+- **Achievement:** **Top 7.7%** ranking in private leaderboard through effective fusion of tabular and sequential modeling
 - **Tech Stack:** Python, PyTorch, CatBoost, pandas, NumPy, scikit-learn
 
 </details>
