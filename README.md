@@ -35,6 +35,24 @@
 </details>
 
 <details>
+<summary>📊 SSAFY Big Data Project — <b>Excellence Award (Samsung Electronics Co., Ltd.)</b></summary>
+
+- **Project:** FinCoach - AI-powered financial coaching service (Credit card delinquency prediction & spending pattern improvement recommendation service based on user MyData)
+- **Role:** DA & DE
+- **Duration:** 2025.01 ~ 2025.02 (7 weeks) | Team of 6 (FE 2, BE 2, Data 2)
+
+**Key Achievements:**
+- **Realistic MyData generation pipeline (DE):** Combined AI HUB financial synthetic data + Statistics Korea household survey data, reflecting age-specific spending patterns with individual preference-based diversity using the principle "individuals behave uniquely, groups follow statistics"
+- **Credit card delinquency prediction model (ML):** HistGradientBoostingClassifier-based model with **46 engineered features** (13 personal info + 33 monthly derived variables including early/mid/late-month spending ratios, credit/debit ratios, 7 major category amounts/ratios, average transaction size, weekend/night spending ratios, HHI, entropy, 3-month rolling, EOM prediction, etc.)
+- **Spending habit improvement recommendation system:** Hybrid CF + CBF approach using cosine similarity to extract top 5% similar users, analyzing 4 comparative perspectives: (1) current month vs similar users (2) 3-month average vs similar users (3) current month vs last month (4) current month vs personal 3-month average
+- **FastAPI-based prediction/recommendation API:** Developed endpoints for delinquency prediction and spending comparison recommendations with real-time MySQL integration
+
+**Tech Stack:** Python, scikit-learn, pandas, NumPy, FastAPI, pydantic, MySQL
+
+**Award:** **Excellence Award (우수상)** from Samsung Electronics for comprehensive end-to-end data pipeline development from synthetic data generation to model deployment
+</details>
+
+<details>
 <summary>🌦 KMA 2025 Weather Data Contest — <b>Finalist, Honorable Mention</b></summary>
 
 - [Competition Link](https://bd.kma.go.kr/contest/main.do)  
@@ -52,6 +70,26 @@
 - **Project:** Developed an object detection model to identify potholes using real-world road images  
 - **Model:** **YOLOv8**  
 - **Achievement:** **8th place (Top 3%)**  
+</details>
+
+<details>
+<summary>🏆 Dacon Toss NEXT ML CHALLENGE (CTR Prediction) — <b>Top 7.7%</b></summary>
+
+- [Competition Link](https://dacon.io/competitions/official/236286/overview/description)
+- **Role:** Team Leader
+- **Project:** Advertisement Click-Through Rate (CTR) Prediction Model
+- **Goal:** Predict user ad click probability using user demographics, ad attributes, domain features, and behavioral sequences
+- **Model Architecture:** Ensemble of two approaches
+  - **Model 1:** CatBoost (base) + Transformer (sequence processing)
+  - **Model 2:** xDeepFM (base) + Attention mechanism (sequence processing)
+- **Key Features:**
+  - Sequence modeling with Transformer encoder for user behavior patterns
+  - Deep feature interaction modeling with xDeepFM's Compressed Interaction Network (CIN)
+  - Attention-based pooling for sequence aggregation
+  - Hybrid ensemble combining tree-based and deep learning approaches
+- **Achievement:** **Top 7.7%** ranking in public leaderboard through effective fusion of tabular and sequential modeling
+- **Tech Stack:** Python, PyTorch, CatBoost, pandas, NumPy, scikit-learn
+
 </details>
 
 <details>
