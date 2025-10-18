@@ -158,3 +158,4 @@
 
 ## 📫 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:joonbutjuly@gmail.com)
+💡 Open to collaboration on **AI/ML competitions** and **data challenges** — feel free to reach out!
