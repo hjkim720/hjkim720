@@ -36,9 +36,9 @@
 </details>
 
 <details>
-<summary>💳 [SSAFY Big Data Project](https://github.com/fincoachService) — <b>Excellence Award (Samsung Electronics Co., Ltd.)</b></summary>
-
-- **Project:** FinCoach - AI-powered financial coaching service (Credit card delinquency prediction & spending pattern improvement recommendation service based on user MyData)
+<summary>💳 SSAFY Big Data Project — <b>Excellence Award (Samsung Electronics Co., Ltd.)</b></summary>
+  
+- **Project:** [FinCoach](https://github.com/fincoachService) - AI-powered financial coaching service (Credit card delinquency prediction & spending pattern improvement recommendation service based on user MyData)
 - **Role:** DA & DE
 - **Duration:** 2025.08 ~ 2025.10  | Team of 6 (FE 2, BE 2, Data 2)
 
