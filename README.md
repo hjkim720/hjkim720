@@ -27,7 +27,8 @@
 <details>
 <summary>📊 13th MOTIE Public Data Utilization Idea Contest — <b>Grand Prize (Minister of Trade, Industry and Energy Award)</b></summary>
 
-- [Competition Link](https://datacontest.kr/)  
+- [Competition Link](https://datacontest.kr/)
+- [GitHub Link](https://github.com/hjkim720/MOTIE_Data_Contest/)  
 - **Role:** Team Leader  
 - **Project:** Correction of weather forecast errors caused by the distance between prediction and observation points  
 - **Goal:** Improve day-ahead (24-hour) weather prediction accuracy for industrial sites (solar power, gas turbines), enabling better operational safety and combustion stability  
