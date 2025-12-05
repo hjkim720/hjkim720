@@ -78,6 +78,7 @@
 <summary>🖱️ Toss NEXT ML CHALLENGE (Dacon, CTR Prediction) — <b>Advanced to Final Round</b></summary>
 
 - [Competition Link](https://dacon.io/competitions/official/236575/overview/description)
+- [GitHub Link](https://github.com/hjkim720/Toss_CTR)
 - **Role:** Team Leader
 - **Project:** Advertisement Click-Through Rate (CTR) Prediction Model
 - **Goal:** Predict user ad click probability using user demographics, ad attributes, domain features, and behavioral sequences
