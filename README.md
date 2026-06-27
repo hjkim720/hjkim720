@@ -54,6 +54,19 @@
 **Acheivement:** **Excellence Award (우수상)** from Samsung Electronics
 </details>
 
+<details>  
+<summary>📦 DACON Smart Warehouse Shipment Delay Prediction AI Competition — <b>3rd Place / 607 Teams (Private)</b></summary>
+
+- [Competition Link](https://dacon.io/competitions/official/236696/overview/description)
+- [Code Share](https://dacon.io/competitions/official/236696/codeshare/13991)
+- **Project:** Predicted the average shipment delay over the next 30 minutes for AMR-based smart logistics warehouses (regression, metric: **MAE**)
+- **Approach:** Built **545 EDA-driven features** and a **5-model ensemble** (XGBoost L1/Quantile, MLP, Dilated CNN, Bidirectional Transformer), fused via MAE-optimized weighted averaging
+- **Core idea — Scenario-level priors:** Trained a separate LightGBM to predict each scenario's overall mean & max delay, then injected those predictions as **leakage-free fold-aligned OOF features** into the row-level models. This passed scenario-wide difficulty down as a prior — and became the single strongest feature-importance signal, the main driver of the final score.
+- **Robust validation:** Stress-stratified GroupKFold (4-axis load score) to keep high-load scenarios balanced across folds while preventing scenario leakage
+- **Achievement:** **3rd Place out of 607 Teams** (solo participation)
+
+</details>
+
 <details>
 <summary>🌦 KMA 2025 Weather Data Contest — <b>Finalist, Honorable Mention</b></summary>
 
