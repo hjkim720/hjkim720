@@ -55,7 +55,7 @@
 </details>
 
 <details>  
-<summary>📦 DACON Smart Warehouse Shipment Delay Prediction AI Competition — <b>3rd Place / 607 Teams (Private)</b></summary>
+<summary>📦 DACON Smart Warehouse Shipment Delay Prediction AI Competition — <b>3rd Place / 607 Teams</b></summary>
 
 - [Competition Link](https://dacon.io/competitions/official/236696/overview/description)
 - [Code Share](https://dacon.io/competitions/official/236696/codeshare/13991)
