@@ -6,6 +6,7 @@
 ---
 
 ## 🎓 Education & Bootcamp
+- **Graduate Student at KAIST**
 - **B.S. Intensive Major in Mathematics**
 - **SSAFY 13th**, Samsung Software/AI Academy for Youth
 
